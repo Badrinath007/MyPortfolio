@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Multisim Experiments",
+    "desc": "Fully Basic content on multisim online simulator.",
+    "image": "1",
+    "category": "Blogs",
+    "links": {
+      "view": "https://multisimexperiments.blogspot.com"
+    }
+  },
+  {
+    "name": "Daily Ink",
+    "desc": "Welcome to DailyInk, your go-to blog for a daily dose of inspiration, knowledge, and creativity. Join us on DailyInk, where every word is a step towards a more informed and inspired you .",
+    "image": "427",
+    "category": "Blogs",
+    "links": {
+      "view": "https://dailyinkprints.blogspot.com"
+    }},
+    {
+    "name": "FitLifeHub",
+    "desc": "Welcome all to your ultimate destination for all things fitness!Our blog is designed to inspire, educate, and motivate you every step of the way.",
+    "image": "508",
+    "category": "Blogs",
+    "links": {
+      "view": "https://healthinfitz.blogspot.com/"
+
+    }
+  }
+]
